@@ -1,0 +1,60 @@
+hello world!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Me, Myself, & I!</title>
+    <link rel="icon" type="image/x-icon" href="valley.jpeg">
+    <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div id="container">
+    
+    <div id="navigation_bar">
+        <nav>
+            <ul>
+                <li>
+                     <a href="index.html" target ="_self"> <div id="home_button"></div></a>
+                </li>
+                <li>
+                    <a href="Likes_Dislikes.html" target="_self"> <div id="likes_dislikes_button"></div></a>
+                </li>
+                <li>
+                    <a href="favorites.html" target="_self"> <div id="favorites_button"></div></a>
+                <li>
+                    <a href="sports.html" target="_self"> <div id="sports_button"></div></a>
+                </li>
+                <li>
+                    <a href="family.html" target="_self"> <div id="family_button"></div></a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <header>
+        <h1>
+            Get to know me!
+        </h1>
+    </header>
+        <img src="childhood.JPG" alt="crew" width="200">
+    <div id="content">
+        <h3>A little about me:</h3>
+        <p> 
+            I was born and raised in Vernon Hills, IL, a suburb of Chicago.
+            I am 21 years old.
+            I am a second-year student at the University of Hawai'i at Manoa.
+            I am studying Business at the <a href="https://shidler.hawaii.edu/" target="_blank">Shidler College of Business</a>
+            Along with Business, I've enjoyed studying Hawaiian Language! 
+        <br>
+        <br>
+            Fun Fact: Hawaiian is my 4th language!
+        </p>
+        <br>
+    </div>
+
+
+
+
+    <footer>&copy 2024 Katie Hansen</footer>
+</body>
+</html>
